@@ -68,29 +68,3 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score, c
 ✅ Running the Notebook
 Ensure all the above libraries are installed in your Python environment before running the notebook.
 
-You can install all required libraries at once using:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Or, manually install them one by one via:
-
-bash
-Copy
-Edit
-pip install pandas seaborn matplotlib scikit-learn statsmodels plotly pymannkendall
-📊 Output
-The notebook will generate:
-
-📈 Exploratory Data Analysis (EDA) plots
-
-📊 Correlation heatmaps
-
-📉 Time series demand trends
-
-🤖 Predictive modeling performance metrics (R², MSE, MAE)
-
-📊 Interactive visualizations using Plotly
-
-
